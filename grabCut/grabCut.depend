@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1447999021 source:d:\grabcut\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/features2d/features2d.hpp>
+	<opencv2/ml/ml.hpp>
+	<opencv2/video/tracking.hpp>
+	<opencv2/calib3d/calib3d.hpp>
+	<iostream>
+	<vector>
+
+1376498858 
+
+1379506016 c:\opencv\build\include\opencv2\core\core.hpp
+	"opencv2/core/types_c.h"
+	"opencv2/core/version.hpp"
+	<limits.h>
+	<algorithm>
+	<cmath>
+	<cstddef>
+	<complex>
+	<map>
+	<new>
+	<string>
+	<vector>
+	<sstream>
+	"opencv2/core/operations.hpp"
+	"opencv2/core/mat.hpp"
+
+1379506016 ore/mat.hpp"
+
+1381547657 c:\opencv\build\include\opencv2\core\types_c.h
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	<stdint.h>
+	<intrin.h>
+	<emmintrin.h>
+	<fastmath.h>
+	<math.h>
+	<ipl.h>
+	<ipl/ipl.h>
+	"tegra_round.hpp"
+	"emmintrin.h"
+
+1381547657 .h"
+
+1383575878 c:\opencv\build\include\opencv2\core\version.hpp
+
+1379459755 c:\opencv\build\include\opencv2\core\operations.hpp
+	<string.h>
+	<limits.h>
+	<ext/atomicity.h>
+	<bits/atomicity.h>
+	<limits>
+
+1379027715 c:\opencv\build\include\opencv2\core\mat.hpp
+	<limits.h>
+	<string.h>
+
+1383794150 c:\opencv\build\include\opencv2\imgproc\imgproc.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/types_c.h"
+
+1383794150 mgproc/types_c.h"
+
+1377301329 c:\opencv\build\include\opencv2\imgproc\types_c.h
+	"opencv2/core/core_c.h"
+
+1376498857 ore/core_c.h"
+
+1379027715 c:\opencv\build\include\opencv2\core\core_c.h
+	"opencv2/core/types_c.h"
+
+1379027715 ore/types_c.h"
+
+1376498857 c:\opencv\build\include\opencv2\highgui\highgui.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui_c.h"
+
+1376498857 ighgui/highgui_c.h"
+
+1376498857 c:\opencv\build\include\opencv2\highgui\highgui_c.h
+	"opencv2/core/core_c.h"
+
+1379459755 c:\opencv\build\include\opencv2\features2d\features2d.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/flann/miniflann.hpp"
+	<limits>
+
+1376498857 c:\opencv\build\include\opencv2\flann\miniflann.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/flann/defines.h"
+
+1376498857 lann/defines.h"
+
+1376498857 c:\opencv\build\include\opencv2\flann\defines.h
+	"config.h"
+
+1376498857 c:\opencv\build\include\opencv2\flann\config.h
+
+1376498858 c:\opencv\build\include\opencv2\ml\ml.hpp
+	"opencv2/core/core.hpp"
+	<limits.h>
+	<map>
+	<string>
+	<iostream>
+
+1376498858 c:\opencv\build\include\opencv2\video\tracking.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+
+1376498858 mgproc/imgproc.hpp"
+
+1376498857 c:\opencv\build\include\opencv2\calib3d\calib3d.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/features2d/features2d.hpp"
+
+1376498857 eatures2d/features2d.hpp"
+
+1447731601 source:/media/kushagra/CC12C3C912C3B6AC/grabCut/main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/features2d/features2d.hpp>
+	<opencv2/ml/ml.hpp>
+	<opencv2/video/tracking.hpp>
+	<opencv2/calib3d/calib3d.hpp>
+	<iostream>
+	<vector>
+
+1447999188 source:d:\btp_iitbbs\grabcut\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/features2d/features2d.hpp>
+	<opencv2/ml/ml.hpp>
+	<opencv2/video/tracking.hpp>
+	<opencv2/calib3d/calib3d.hpp>
+	<iostream>
+	<vector>
+
+1462266271 source:d:\btp_iitbbs\road detection and tracking using uav videos\grabcut\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/features2d/features2d.hpp>
+	<opencv2/ml/ml.hpp>
+	<opencv2/video/tracking.hpp>
+	<opencv2/calib3d/calib3d.hpp>
+	<iostream>
+	<vector>
+
